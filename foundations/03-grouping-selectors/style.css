@@ -1,0 +1,12 @@
+.button {
+   font-size: 28px;
+   font-style: helvetica times-new-roman sans sarif;
+}
+.one-el {
+    background-color: black;
+    color: white;
+
+}
+.two-el {
+    background-color: yellow;
+}
